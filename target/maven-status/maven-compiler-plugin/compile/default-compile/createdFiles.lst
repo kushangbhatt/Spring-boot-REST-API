@@ -1,8 +1,0 @@
-io/egen/api/exception/NotFoundException.class
-io/egen/api/repository/UserRepository.class
-io/egen/api/exception/BadRequestException.class
-io/egen/api/service/impl/UserServiceImpl.class
-io/egen/api/entity/User.class
-io/egen/api/controller/UserController.class
-io/egen/api/service/UserService.class
-io/egen/api/Application.class
